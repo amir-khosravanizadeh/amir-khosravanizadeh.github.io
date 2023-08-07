@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-# About me
+# publications
 
 I'm currently working at [Institute Jacques Monod](https://www.ijm.fr/) in Paris, as a researcher.
 
