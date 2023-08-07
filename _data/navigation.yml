@@ -2,8 +2,10 @@
 main:
   - title: "Research"
     url: /Research/
-  #- title: "Blog"
-  # url: /blog/
+  - title: "Publications"
+   url: /publications/
+  - title: "CV"
+   url: /cv/   
   - title: "About"
     url: https://github.com/amir-khosravani
   #- title: "Publications"
