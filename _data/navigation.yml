@@ -4,8 +4,8 @@ main:
     url: /Research/ 
   - title: "About"
     url: https://github.com/amir-khosravani
-   - title: "CV"
-     url: /cv/
+  # - title: "CV"
+  #   url: /cv/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
