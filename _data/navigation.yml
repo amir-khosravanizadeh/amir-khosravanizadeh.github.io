@@ -2,8 +2,8 @@
 main:
   - title: "Research"
     url: /Research/ 
-  - title: "About"
-    url: https://github.com/amir-khosravani
+  - title: "Publications"
+    url: /publications/
   - title: "CV"
     url: /cv/
   # - title: "Sample Collections"
