@@ -1,8 +1,8 @@
 ---
-title: 'Amir Khosravanizadeh'
+title: 'Amir Khosravani-zadeh'
 layout: single
 author_profile: true
-excerpt: 'A Physicist looking for new horizons .'
+excerpt: 'A Physicist looking for new horizons...'
 header:
   overlay_image: /images/paris.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
