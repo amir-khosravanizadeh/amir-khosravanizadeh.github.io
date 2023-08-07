@@ -1,5 +1,5 @@
 ---
-title: 'Amir Khosravanizadeh'
+title: 'Amir Khosravaniz-adeh'
 layout: single
 author_profile: true
 excerpt: 'A Physicist looking for new horizons .'
@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-# About me
+# cv
 
 I'm currently working at [Institute Jacques Monod](https://www.ijm.fr/) in Paris, as a researcher.
 
