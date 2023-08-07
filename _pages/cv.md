@@ -10,6 +10,6 @@ header:
 
 # cv
 
-I'...m currently working at [Institute Jacques Monod](https://www.ijm.fr/) in Paris, as a researcher.
+ currently working at [Institute Jacques Monod](https://www.ijm.fr/) in Paris, as a researcher.
 
 ---
