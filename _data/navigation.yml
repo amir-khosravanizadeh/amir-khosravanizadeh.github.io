@@ -1,9 +1,11 @@
 # main links
 main:
   - title: "Research"
-    url: /research/
+    url: /Research/
+  #- title: "Blog"
+  # url: /blog/
   - title: "About"
-   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://github.com/amir-khosravani
   #- title: "Publications"
   #  url: /publications/  
   #- title: "CV"
