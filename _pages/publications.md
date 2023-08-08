@@ -15,7 +15,7 @@ header:
   </ul>
 </div>
 
-<div style="text-align: right">
+<div style="text-align: justify">
 - <h3> Wrapping of a nanowire by a supported lipid membrane.</h3>
 **Amir Khosravanizadeh**,   Pierre Sens,  and  Farshid Mohammad-Rafiee. [*Soft Matter, 2019, **15**, 7490-7500*](https://pubs.rsc.org/en/content/articlelanding/2019/SM/C9SM00618D).
 
