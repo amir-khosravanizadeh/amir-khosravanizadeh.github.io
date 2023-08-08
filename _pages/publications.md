@@ -1,7 +1,7 @@
 ---
 title: 'Research'
 layout: single
-permalink: /research/
+permalink: /publications/
 author_profile: true
 excerpt: 'A list of the different projects I am doing.'
 header:
