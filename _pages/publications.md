@@ -8,22 +8,9 @@ header:
   overlay_image: /images/paris.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(tidyverse)
-library(rmarkdown)
-library(kableExtra)
-library(knitr)
-```
-
-<style>
-.kable_wrapper {
-  border: hidden;
-}
-</style>
   
 ## Publications
+-------
 
 - <h2>Wrapping of a nanowire by a supported lipid membrane.</h2>
 **Amir Khosravanizadeh**,   Pierre Sens,  and  Farshid Mohammad-Rafiee. [Soft Matter, 2019, 15, 7490-7500](https://pubs.rsc.org/en/content/articlelanding/2019/SM/C9SM00618D).
