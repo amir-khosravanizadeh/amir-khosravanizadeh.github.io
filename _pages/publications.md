@@ -15,6 +15,7 @@ header:
   </ul>
 </div>
 
+<div style="text-align: right">
 - <h3> Wrapping of a nanowire by a supported lipid membrane.</h3>
 **Amir Khosravanizadeh**,   Pierre Sens,  and  Farshid Mohammad-Rafiee. [*Soft Matter, 2019, **15**, 7490-7500*](https://pubs.rsc.org/en/content/articlelanding/2019/SM/C9SM00618D).
 
@@ -23,7 +24,7 @@ Tobias Strübing, **Amir Khosravanizadeh**, Andrej Vilfan, Eberhard Bodenschatz,
 
 - <h3>Role of particle local curvature in cellular wrapping.</h3>
 **Amir Khosravanizadeh**<sup>*</sup>,   Pierre Sens,  and  Farshid Mohammad-Rafiee. [*J. R. Soc. Interface. 2022, **19**, 20220462*](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0462).
-
+</div>
 
   
 
