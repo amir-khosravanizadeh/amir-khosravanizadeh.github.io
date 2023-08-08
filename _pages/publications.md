@@ -8,9 +8,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-# About me
+## Helical actin filament
 
-I'm currently working at [Institute Jacques Monod](https://www.ijm.fr/) in Paris, as a researcher.
-
----
+- [**Attention Gated LSTM**](https://www.ijm.fr/): Implementation of an helical actin filament.
 
