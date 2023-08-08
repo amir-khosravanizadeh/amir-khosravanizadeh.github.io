@@ -9,6 +9,8 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-# publications
+## Publications
 
 - [**Attention Gated LSTM**](https://www.ijm.fr/): Implementation of an helical actin filament.
+
+
