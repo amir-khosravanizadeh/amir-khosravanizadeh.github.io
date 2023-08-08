@@ -12,7 +12,7 @@ header:
 ## Publications
 
 
-- <h2 style="display: inline-block;"> Wrapping of a nanowire by a supported lipid membrane.</h2>
+- <h2> Wrapping of a nanowire by a supported lipid membrane.</h2>
 **Amir Khosravanizadeh**,   Pierre Sens,  and  Farshid Mohammad-Rafiee. [*Soft Matter, 2019, **15**, 7490-7500*](https://pubs.rsc.org/en/content/articlelanding/2019/SM/C9SM00618D).
 
 - <h2>Wrinkling Instability in 3D Active Nematics.</h2>
