@@ -22,7 +22,7 @@ header:
 Tobias Strübing, **Amir Khosravanizadeh**, Andrej Vilfan, Eberhard Bodenschatz, Ramin Golestanian, and Isabella Guido. [*Nano Lett. 2020, **20**, (9), 6281–6288*](https://pubs.acs.org/doi/10.1021/acs.nanolett.0c01546).
 
 - <h3>Role of particle local curvature in cellular wrapping.</h3>
-**Amir Khosravanizadeh**,   Pierre Sens,  and  Farshid Mohammad-Rafiee. [*J. R. Soc. Interface. 2022, **19**, 20220462*](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0462).
+**Amir Khosravanizadeh**<sup>*</sup>,   Pierre Sens,  and  Farshid Mohammad-Rafiee. [*J. R. Soc. Interface. 2022, **19**, 20220462*](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0462).
 
 
   
