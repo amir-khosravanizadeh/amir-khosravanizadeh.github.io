@@ -14,6 +14,8 @@ I'm currently working at [Institute Jacques Monod](https://www.ijm.fr/) in Paris
 
 I am at <a href="https://www.ijm.fr/" style="text-decoration:none">Institute Jacques Monod</a> ...
 
+foo ![](icon3.svg) bar
+
 ---
  <font size="1"> This is my text number1</font> 
 
