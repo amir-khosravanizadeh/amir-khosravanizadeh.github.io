@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-# About me
+<img align="left" width="100" height="100" src="drawing.svg"> <h1> About me </h1>
 <hr style="border:2px solid black">
 I'm currently working at [Institute Jacques Monod](https://www.ijm.fr/) in Paris, as a researcher. I am ....
 
