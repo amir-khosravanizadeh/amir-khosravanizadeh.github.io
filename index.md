@@ -14,8 +14,9 @@ I'm currently working at [Institute Jacques Monod](https://www.ijm.fr/) in Paris
 
 I am at <a href="https://www.ijm.fr/" style="text-decoration:none">Institute Jacques Monod</a> ...
 
-foo ![](icon3.svg) bar
+![](icon3.svg) bar
 
+<img align="left" width="10" height="10" src="icon3.svg">
 ---
  <font size="1"> This is my text number1</font> 
 
