@@ -6,7 +6,7 @@ author_profile: true
 excerpt: 'A list of the different projects I am doing.'
 header:
   overlay_image: /images/background1.jpeg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
   
 <div id="user-content-toc">
