@@ -2,9 +2,9 @@
 title: 'Amir Khosravanizadeh'
 layout: single
 author_profile: true
-excerpt: 'A Physicist looking for new horizons... <br/> <br/>'
+excerpt: 'A Physicist looking for new horizons... <br/> <br/> <br/>'
 header:
-  overlay_image: /images/background13.jpeg
+  overlay_image: /images/background14.jpeg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 
