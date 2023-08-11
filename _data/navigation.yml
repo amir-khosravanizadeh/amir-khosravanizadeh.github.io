@@ -6,7 +6,7 @@ main:
     url: /publications/
   - title: "CV"
     url: /CV_Amir_Khosravanizadeh.pdf
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+   - title: "Search"
+     url: /search/
   # - title: "Sitemap"
   #   url: /sitemap/
