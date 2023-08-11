@@ -4,8 +4,8 @@ layout: single
 author_profile: true
 excerpt: 'A Physicist looking for new horizons .'
 header:
-  overlay_image: /images/background.jpeg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_image: /images/background1.jpeg
+  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 
 <h1><img align="left" width="50" height="50" src="drawing.svg" /> &nbsp; About me </h1>
